@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author iqrazamir
+ *
+ */
+module Amazon {
+}
