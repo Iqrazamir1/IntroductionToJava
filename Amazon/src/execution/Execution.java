@@ -16,5 +16,4 @@ public class Execution {
 		Payment object3 = new Payment();
 		object3.showPayment();
 	}
-
 }
