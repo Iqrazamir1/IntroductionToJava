@@ -21,7 +21,7 @@ public class ExecutionClass {
 		book1.print();
 		
 		
-		// Scanner version - Not hard-coded
+		// Scanner version - Accepts input from user
 		Book book2 = new Book();
 		Scanner scn = new Scanner(System.in);
 		
@@ -39,6 +39,25 @@ public class ExecutionClass {
 		System.out.println(book2.price);
 		System.out.println(book2.publisher);
 		book2.print();
+
 	}
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

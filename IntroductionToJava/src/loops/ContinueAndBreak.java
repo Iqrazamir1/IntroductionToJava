@@ -3,7 +3,7 @@ package loops;
 public class ContinueAndBreak {
 
 	public static void main(String[] args) {
-		for(int i = 0; i < 10; i++  ) {
+		for(int i = 0; i < 10; i++) {
 			if(i == 2) { // Skips the number 2
 				continue;
 			}
@@ -14,5 +14,4 @@ public class ContinueAndBreak {
 		}
 		
 	}
-
 }
