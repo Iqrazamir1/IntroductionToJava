@@ -8,7 +8,7 @@ public class EnhancedForLoopExample {
 		String[] city = new String[5];
 		Scanner scn = new Scanner(System.in);
 		
-		System.out.println("Enter names of cities: "); 	// Accept the value
+		System.out.println("Enter names of cities: "); 	// Accepts the value
 		for(int i = 0; i < city.length; i++) {
 			city[i] = scn.next();
 		}

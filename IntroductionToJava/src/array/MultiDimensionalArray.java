@@ -17,7 +17,7 @@ public class MultiDimensionalArray {
 			}
 		}
 	
-		for(int i = 0; i < 3; i++) { // Prints the value
+		for(int i = 0; i < 3; i++) { // Prints the values
 			for(int j = 0; j < 3; j++) {
 				System.out.println(nums[i][j] +" ");
 			}

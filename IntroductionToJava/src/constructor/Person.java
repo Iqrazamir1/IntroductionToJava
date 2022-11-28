@@ -1,4 +1,4 @@
-package constructor;
+ package constructor;
 
 public class Person {
 	String name; // Attributes
