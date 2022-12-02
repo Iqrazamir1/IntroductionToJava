@@ -21,6 +21,5 @@ public class Person {
 		
 		address = address;
 		phone = phone;
-		
 	}
 }
