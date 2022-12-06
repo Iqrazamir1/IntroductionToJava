@@ -1,6 +1,6 @@
 package inheritance;
 
-public class Manager extends Employee{
+public class Manager extends Employee {
 	String department;
 	
 	public Manager(String name, int age, int employeeId, String department) {
