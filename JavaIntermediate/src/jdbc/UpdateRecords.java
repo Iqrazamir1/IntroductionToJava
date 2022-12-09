@@ -14,7 +14,7 @@ public static void main(String[] args) {
 			Connection con = DriverManager.getConnection(url, userName, password);
 			System.out.println("Connected successfully");
 			
-			// Update data in the database table 
+			// Update data in the table 
 			String query = "delete from customer where id = 104";
 			Statement stmt = con.createStatement();
 			stmt.executeUpdate(query);

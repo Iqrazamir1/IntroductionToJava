@@ -15,7 +15,7 @@ public class InsertRecords {
 			Connection con = DriverManager.getConnection(url, userName, password);
 			System.out.println("Connected successfully");
 			
-			// Inserting data into the database table 
+			// Inserting data into the table 
 			String query = "insert into customer values(104, 'Uzma', 4839223, 'U@outlook.com')";
 			Statement stmt = con.createStatement();
 			stmt.executeUpdate(query);
