@@ -1,0 +1,8 @@
+20221219 13:13:56 INFO  [main] apacheLogger.Execution Execution.java13 - This is information message
+20221219 13:13:56 WARN  [main] apacheLogger.Execution Execution.java14 - This is warning message
+20221219 13:13:56 FATAL [main] apacheLogger.Execution Execution.java15 - This is fatal message
+20221219 13:13:56 ERROR [main] apacheLogger.Execution Execution.java21 - / by zero
+20221219 13:13:56 ERROR [main] apacheLogger.Execution Execution.java22 - Catching
+java.lang.ArithmeticException: / by zero
+	at apacheLogger.Execution.main(Execution.java:18) [classes/:?]
+20221219 13:13:56 DEBUG [main] apacheLogger.Execution Execution.java23 - / by zero
