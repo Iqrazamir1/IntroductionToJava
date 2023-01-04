@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author iqrazamir
- *
- */
-module ArgsExample {
-}
